@@ -5,8 +5,8 @@
 Programa Java que permite extraer metadatos de archivos multimedia (imágenes y videos) y guardarlos en un archivo JSON. 
 
 ## Bibliotecas utilizadas
-[metadata-extractor](https://github.com/drewnoakes/metadata-extractor) para la extracción de metadatos.
-[Jackson](https://github.com/FasterXML/jackson) para la conversión de los metadatos a formato JSON.
+- [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) para la extracción de metadatos.
+- [Jackson](https://github.com/FasterXML/jackson) para la conversión de los metadatos a formato JSON.
 
 ## Características
 
