@@ -1,0 +1,6 @@
+Programa obtención de metadatos multimedia de un fichero.
+- Entrada: fichero ("imagen.jpg")
+- Salida: Fichero JSON con los metadatos multimedia: "imagen.jpg.json"
+- Salida error: Error al leer fichero. No es un formato de imagen tratado.
+- Proceso: Validaciones.
+           Obtener metadatos multimedia (fecha de creación, dimensiones, resolución o localización GP, todos los que proporcione la librería de metadata-extractor)
