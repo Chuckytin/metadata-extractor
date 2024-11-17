@@ -20,7 +20,7 @@ public class MetadataExtractor {
     public Map<String, String> extractMetadata(File file) throws MetadataExtractionException {
 
         //Validating the file
-        FileValidator.validateFile(file);
+        //FileValidator.validateFile(file);
 
         Map<String, String> metadataMap = new HashMap<>();
 
